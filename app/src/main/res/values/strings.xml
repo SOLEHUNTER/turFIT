@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">turFIT</string>
+    <string name="maps_api_key">maps-api-key</string>
+    <string name="default_info_title" />
+    <string name="default_info_snippet" />
+    <string name="pick_place" />
+</resources>
